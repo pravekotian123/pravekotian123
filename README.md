@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pravekotian123
 - 👀 I’m interested in C++ coding, graph theory and machine learning
-- 🌱 I’m currently doing my BE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
